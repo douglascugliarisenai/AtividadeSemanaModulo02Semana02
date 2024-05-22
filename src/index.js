@@ -4,6 +4,7 @@ const filtrarAdultos = require("./m2s02-ex2");
 const agruparPorCategoria = require("./m2s02-ex3");
 const contador = require("./m2s02-ex4");
 const calcularProduto = require("./m2s02-ex5");
+const transformarArray = require("./m2s02-ex6");
 
 let pares = pegarNumerosPares([
     1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
@@ -52,3 +53,11 @@ console.log(contador2()); // 2
 
 let numeros = [1, 2, 3, 4, 5];
 console.log(calcularProduto(numeros)); // 120
+
+
+
+/* -------------- Exercício 6 -------------- */
+function dobrar(numero) {
+    return numero * 2;
+}
+console.log(transformarArray(numeros, dobrar)); // [2, 4, 6, 8, 10]
