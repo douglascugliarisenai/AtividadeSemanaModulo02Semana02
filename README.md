@@ -7,14 +7,16 @@
 </h1>
 <p align="center">🚀 Assunto: Manipulação de Array em JS
 
-* JavaScript
-    * 🚀 Assunto: Declaração de Arrays no JavaScript
-    * 🚀 Assunto: Acessando elementos de um array
-    * 🚀 Assunto: Modificar elementos de um array
-    * 🚀 Assunto: Comprimento do Array
-    * 🚀 Assunto: Manipulação de Arrays
-    * 🚀 Assunto: Removendo elementos
-    * 🚀 Assunto: Transformação de Arrays
+- JavaScript
+  - 🚀 Assunto: Declaração de Arrays no JavaScript
+  - 🚀 Assunto: Acessando elementos de um array
+  - 🚀 Assunto: Modificar elementos de um array
+  - 🚀 Assunto: Comprimento do Array
+  - 🚀 Assunto: Manipulação de Arrays
+  - 🚀 Assunto: Removendo elementos
+  - 🚀 Assunto: Transformação de Arrays
+  - 🚀 Assunto: Busca em um Array
+  - 🚀 Assunto: Métodos de Ordenação
 
 </br>
 </br>
